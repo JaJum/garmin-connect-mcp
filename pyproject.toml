@@ -7,6 +7,7 @@ name = "garmin-connect-mcp"
 version = "0.1.0"
 description = "A modular, testable Garmin Connect MCP server with health reports"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.10"
 dependencies = [
     "python-dotenv==1.2.2",
@@ -31,5 +32,6 @@ packages = ["src/garmin_connect_mcp"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 addopts = "-q -p no:tmpdir -p no:cacheprovider"
+asyncio_default_fixture_loop_scope = "function"
 
 

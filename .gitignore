@@ -28,3 +28,6 @@ reports/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Test scratch
+.pytest-work/
