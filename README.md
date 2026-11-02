@@ -11,7 +11,7 @@
 [![MCP](https://img.shields.io/badge/MCP-Server-2E7D32)](https://modelcontextprotocol.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-4CAF50.svg)](LICENSE)
 
-<img src="https://www.garmin.com.cn/m/cn/g/banner/banner_garminactive6n_2560.jpg" alt="Garmin 智能手表" width="720">
+<img src="https://www.garmin.com.cn/m/cn/g/banner/87582-1-D.jpg" alt="越野跑中的运动员与 Garmin 手表" width="720">
 
 </div>
 
