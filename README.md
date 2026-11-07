@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="garmin-connect-mcp logo" width="160">
+
 # garmin-connect-mcp
 
 **一个模块化、可测试的 Garmin Connect MCP Server**
