@@ -29,6 +29,15 @@ dev = [
 [tool.hatch.build.targets.wheel]
 packages = ["src/garmin_connect_mcp"]
 
+[tool.hatch.build.targets.sdist]
+exclude = [
+    "/.readme-preview.html",
+    "/RELEASE_NOTES.md",
+    "/package.json",
+    "/server.json",
+    "/微信图片*.png",
+]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 addopts = "-q -p no:tmpdir -p no:cacheprovider"
