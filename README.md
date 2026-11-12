@@ -233,7 +233,6 @@ CI automatically runs unit and integration tests on Python 3.10, 3.11, 3.12, and
 
 | Document | Contents |
 |---|---|
-| [plan.md](plan.md) | Project plan and milestones |
 | [docs/design.md](docs/design.md) | Detailed architecture design |
 | [docs/tool-list.md](docs/tool-list.md) | Final tool list and parameter reference |
 
